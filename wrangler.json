@@ -1,0 +1,12 @@
+{
+  "name": "sammamish-drywall",
+  "compatibility_date": "2026-10-21",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "none"
+  },
+  "build": {
+    "command": "python3 scripts/validate_worker_release.py deployment/worker-release.json"
+  }
+}

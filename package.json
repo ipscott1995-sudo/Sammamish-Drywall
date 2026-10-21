@@ -1,0 +1,11 @@
+{
+  "name": "sammamish-drywall-site",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "wrangler": "4.151.3"
+  },
+  "engines": {
+    "node": "^22.0.0 || ^24.0.0"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "siteSlug": "sammamish-drywall",
+  "workerName": "sammamish-drywall",
+  "publicDirectory": "public",
+  "files": {
+    "index.html": {
+      "sha256": "6d2370ccba729dbeacaae17bbb20bb30518af1839e64984a5439edd0a8960230",
+      "bytes": 19030
+    },
+    "drywall-bellevue.html": {
+      "sha256": "c2b604a6cf035b3cd5b6a4da0345804f4af6cf05583deef9c2bc6ed4e1a2a4bc",
+      "bytes": 12317
+    },
+    "about.html": {
+      "sha256": "990b1b2479a2142567d0891c76aabb8ecbecea6acfd853c1cc96eb397a3c0de4",
+      "bytes": 11475
+    },
+    "contact.html": {
+      "sha256": "052f28e2dca74e8424bbd97fa833dfebb301889ebf2608e6a07f86bc8d0f0e99",
+      "bytes": 13612
+    },
+    "drywall-finishing-texturing.html": {
+      "sha256": "c9d4b6ffbda196b7665fb4e297861a49120f21d7ab5186363403d14e650feaa1",
+      "bytes": 15799
+    },
+    "drywall-redmond.html": {
+      "sha256": "1cd3914fb5ab5492db58a8db1bdf305a1fbaeaaf5552de0b3f21ac1e43f71154",
+      "bytes": 12361
+    },
+    "sitemap.xml": {
+      "sha256": "d1912512a783b0c41914b0dfcc004d327b75fc8ca87af8e48d4e12de599fb30f",
+      "bytes": 1068
+    },
+    "drywall-replacement.html": {
+      "sha256": "1f2247e9ca8e999d52a3181f7041149deebcbc7430d0b5495d869669fd665455",
+      "bytes": 15222
+    },
+    "drywall-issaquah.html": {
+      "sha256": "3f059cfd2a147f86976514b0fd0d83cad8c5aa5b4095a07b3044d8ac19c3f2e5",
+      "bytes": 12426
+    },
+    "robots.txt": {
+      "sha256": "f6f3c856a7eb713db471042c7a60b7a6e7208c03f3437451f407c11cd72e18ae",
+      "bytes": 74
+    },
+    "drywall-repair.html": {
+      "sha256": "116c20a31cc5793c4c4431149b48c8a292c7f25dabb72ec41b730fff27a791f9",
+      "bytes": 15236
+    },
+    "drywall-newcastle.html": {
+      "sha256": "d3ce3873d1085eb91ecbed152ac8105f3599f74196b0653c2ebc609f0956d2bd",
+      "bytes": 12345
+    },
+    "faq.html": {
+      "sha256": "9708c73ee791d534b83920ca018ce044dfb1336a402ed5a499309af319079857",
+      "bytes": 13076
+    },
+    "drywall-installation.html": {
+      "sha256": "a9aa4790a6b6409b00bd2fb47a18b2a670bdc748d01d38c36bb8ad55acabc206",
+      "bytes": 15518
+    },
+    "css/styles.css": {
+      "sha256": "1a6485e83e7173af722f4318c38a8e57ef9fc82ad007fc68e535108f0b3bf906",
+      "bytes": 27352
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-600.webp": {
+      "sha256": "62ddfefed57e1a819d7b6df0673bdd0b32a5207712e7fc66098395bbbd154201",
+      "bytes": 6342
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-1200.webp": {
+      "sha256": "dbbbf0bf1275f7d21b4c226a2e5bef82aa345a9ef2c44a25daa998be92b83906",
+      "bytes": 84468
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-320.webp": {
+      "sha256": "f1cf3b9454c3cdaa67ebeb9591faf8497c100af22becf1ce62b3a9822ceee4be",
+      "bytes": 5330
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-800.webp": {
+      "sha256": "8ed91096c3a96ba0be53ed1c0160cf8eadfd291971b34d18762de84c55c88455",
+      "bytes": 9632
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-400.webp": {
+      "sha256": "693c0e15f51d2e607d91a22622bd0ba15eafb45007d432808fef7d6a022af7f6",
+      "bytes": 3724
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-social-1200.jpg": {
+      "sha256": "8597126207cc86ae9898ae293d0e0696c9bcc58945aa534331d7ba25a61a4ab8",
+      "bytes": 143081
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-600.webp": {
+      "sha256": "c30befcd1f353843f025dca91776aeb257f27a3fa7d891421ad8b6109d583cc6",
+      "bytes": 18656
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-600.webp": {
+      "sha256": "a29e162721f3638934df4499833265eef9faa5ff78c1a06d97f2233e88c9181f",
+      "bytes": 2640
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-social-1200.jpg": {
+      "sha256": "8340e66a5c04495e54473894106c4fba28a4d62b99302700adf9d63593f55dd7",
+      "bytes": 70255
+    },
+    "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-800.webp": {
+      "sha256": "ee02b9b347eadc9483ef599c365a0fa9a34c90f3517ac820f1b36a21824e3a31",
+      "bytes": 26646
+    },
+    "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-400.webp": {
+      "sha256": "cc7525b87009c02a6e4d1dfe9646c39985c2132c32e1eaadad995a8770b08cc3",
+      "bytes": 10560
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-600.webp": {
+      "sha256": "09372843446f2e7babe05257882426b1f3cd0ea920bcfff4c6265e566998d666",
+      "bytes": 7004
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-800.webp": {
+      "sha256": "0217d117e9823d5768cc4caac83f60ab0323768a86d6b0a5324db0bc99bfd5d9",
+      "bytes": 4136
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-400.webp": {
+      "sha256": "2856e84bca063f3069a4c1c44caea341f2f29bc5892f6be54294cd184d18e252",
+      "bytes": 1488
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-400.webp": {
+      "sha256": "371a066f147aaa9b84417426e1bde31de738a5b0382c60c180dafe709d7aaad1",
+      "bytes": 3876
+    },
+    "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-600.webp": {
+      "sha256": "0e06eb09d19fc1562bca5b59ae792612fdfcddf790ff1150cf886a5bf2120fcb",
+      "bytes": 18178
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-800.webp": {
+      "sha256": "616862e0a76d16eeacfe4ab7ed2cf427df16a9ac780416177f903b62c1a37d10",
+      "bytes": 11018
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-800.webp": {
+      "sha256": "64dee1a86321045a760c2dbb539bf4f24ff9e76f20c066e597a5c0ab155cdb90",
+      "bytes": 27808
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-400.webp": {
+      "sha256": "583327e5935d53084f679db8de546c5bc4e9c07e8f24493dd4d9ae45328bb9b7",
+      "bytes": 11436
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-1600.webp": {
+      "sha256": "677a56f70db62ea28a30403db9bd805c7ce149380dc6c99c68ed8b0693c06eac",
+      "bytes": 136378
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-social-1200.jpg": {
+      "sha256": "5daeddc290f718b1efe5b9bf818e696b76e108556b00c7a5548ee3af0198703c",
+      "bytes": 76226
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-400.webp": {
+      "sha256": "7309b32bf5280f79d785626c4fe68f6944a040078a1e242806b23df3c8274d57",
+      "bytes": 13020
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-800.webp": {
+      "sha256": "b16a8f67300a8b48f512e7def240b32ad5d36bed02ec16eba6f1c1efd3adccbe",
+      "bytes": 43130
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-1200.webp": {
+      "sha256": "d1211bf0a97c752b60a3945b40809dba8df9d4714589468457e02e40d25ac618",
+      "bytes": 17332
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-1600.webp": {
+      "sha256": "4cd9278a4b81990caf4224442809caffe3a62ca49fc00dcf5827980cbef7c106",
+      "bytes": 39750
+    },
+    "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-1600.webp": {
+      "sha256": "bb85e6faf1db9a5d1b78b68a96cede338bd7bd1c071dd16e403457f2ee829f20",
+      "bytes": 134646
+    },
+    "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-600.webp": {
+      "sha256": "a0c816a7e09897c27736b923196395ca636c7f9cee664d2d1add292d339a769f",
+      "bytes": 25824
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-320.webp": {
+      "sha256": "863757b3ce0a280e274a8aa981482d0d967142deebeb2337c13b62a38e4269bf",
+      "bytes": 1094
+    },
+    "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-1200.webp": {
+      "sha256": "36f382411f92bd0d37552566843b0a88b408644e2ac4d18d32908ac904086b4a",
+      "bytes": 83270
+    },
+    "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-400.webp": {
+      "sha256": "cc444e3efc65e95643600f466255d61b285fdcf157a507262a3d28cf63e09582",
+      "bytes": 10184
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-1600.webp": {
+      "sha256": "6f7da08753d95cc03d450abba398ec9a4d3543f9e19b8856b9efbce56a19d464",
+      "bytes": 27504
+    },
+    "images/optimized/sammamish-drywall/wall-repair-sanding-block-1200.webp": {
+      "sha256": "1f6a5d837a327d0501e1bc6b2630774d74d9c2da09d80ddb730843f562cab929",
+      "bytes": 23334
+    },
+    "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-800.webp": {
+      "sha256": "209fdc0a29de82310e96d93b5c564cbe75bf914945995a6a5bf22d74273c436e",
+      "bytes": 40650
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-social-1200.jpg": {
+      "sha256": "c221ad8ba1f48de09a72b4a36f2977cac7e0ea54bf2e2aa5b83e20671b04c6e5",
+      "bytes": 43140
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-600.webp": {
+      "sha256": "3529d99326f196dc98b53c6e44e476c26f771da4f2d6b869277878eaaf7dab23",
+      "bytes": 5100
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-600.webp": {
+      "sha256": "c9236d00e6d58be0dd0b1d92d8e7eacbc60321a07ddeb3a0cd68efa7c3164830",
+      "bytes": 11774
+    },
+    "images/optimized/sammamish-drywall/drywall-wall-smoothing-social-1200.jpg": {
+      "sha256": "689abfb5142e12bbd057ff3225fec46eab26549a1785d07cbfbf0cfec950e52a",
+      "bytes": 53090
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-400.webp": {
+      "sha256": "803ef3fb8299a0ccbc54799b17ced4b787ab09156893daf6e633c38279802c88",
+      "bytes": 7052
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-400.webp": {
+      "sha256": "18ef144d4e0a4b11b6cfb54b1dacaf3f5babe10a2d0095aa2aa9c63aa4edbd61",
+      "bytes": 2768
+    },
+    "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-600.webp": {
+      "sha256": "75a71051d797da0ad99060bad0ea7c5a2ca07e01df98800d490a15564e3ec598",
+      "bytes": 22978
+    },
+    "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-800.webp": {
+      "sha256": "302926f218e2a9576a3cc52cf1481274dba2c3dea1c6efb1300d246d3e8974e7",
+      "bytes": 7832
+    },
+    "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-800.webp": {
+      "sha256": "411d9bf63b2e9240bb4f459f83e0b005c9540ab5559baa5e999ee45dbeca4808",
+      "bytes": 17050
+    },
+    "js/main.js": {
+      "sha256": "04c9fa939294415a0c374a004c257a380fb9a80a25eb771731e5c916610a6607",
+      "bytes": 3228
+    }
+  },
+  "validation": {
+    "business": {
+      "domain": "sammamishdrywall.com",
+      "phoneDisplay": "(425) 671-4854",
+      "phoneTel": "+14256714854",
+      "formUrl": "https://link.apisystem.tech/widget/form/iM9ed7mS57or1xxQZaya"
+    },
+    "services": [
+      {
+        "url": "drywall-installation.html"
+      },
+      {
+        "url": "drywall-repair.html"
+      },
+      {
+        "url": "drywall-finishing-texturing.html"
+      },
+      {
+        "url": "drywall-replacement.html"
+      }
+    ],
+    "locationPages": [
+      {
+        "url": "drywall-issaquah.html"
+      },
+      {
+        "url": "drywall-redmond.html"
+      },
+      {
+        "url": "drywall-bellevue.html"
+      },
+      {
+        "url": "drywall-newcastle.html"
+      }
+    ],
+    "images": {
+      "useImages": false
+    },
+    "deployment": {
+      "publicAssets": [
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-600.webp",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-1200.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-320.webp",
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-800.webp",
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-400.webp",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-social-1200.jpg",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-600.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-600.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-social-1200.jpg",
+        "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-800.webp",
+        "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-400.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-600.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-800.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-400.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-400.webp",
+        "images/optimized/sammamish-drywall/drywall-ceiling-power-sanding-600.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-800.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-800.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-400.webp",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-1600.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-social-1200.jpg",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-400.webp",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-800.webp",
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-1200.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-1600.webp",
+        "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-1600.webp",
+        "images/optimized/sammamish-drywall/plasterboard-installation-timber-room-600.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-card-320.webp",
+        "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-1200.webp",
+        "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-400.webp",
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-1600.webp",
+        "images/optimized/sammamish-drywall/wall-repair-sanding-block-1200.webp",
+        "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-800.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-social-1200.jpg",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-600.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-600.webp",
+        "images/optimized/sammamish-drywall/drywall-wall-smoothing-social-1200.jpg",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-400.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-400.webp",
+        "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-600.webp",
+        "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-800.webp",
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-800.webp"
+      ]
+    }
+  }
+}
