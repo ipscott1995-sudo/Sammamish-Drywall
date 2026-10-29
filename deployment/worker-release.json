@@ -4,60 +4,60 @@
   "publicDirectory": "public",
   "files": {
     "index.html": {
-      "sha256": "6d2370ccba729dbeacaae17bbb20bb30518af1839e64984a5439edd0a8960230",
-      "bytes": 19030
+      "sha256": "936812d1d3b6001353d13570ccfd4e1b92c00f215e3151ee3fb4433992df6308",
+      "bytes": 19247
     },
     "drywall-bellevue.html": {
-      "sha256": "c2b604a6cf035b3cd5b6a4da0345804f4af6cf05583deef9c2bc6ed4e1a2a4bc",
-      "bytes": 12317
+      "sha256": "a72e27ebbc896f8f9b1c9e5cfc7295db51265e27ccbe8121b09b258e30b4cdd7",
+      "bytes": 12534
     },
     "about.html": {
-      "sha256": "990b1b2479a2142567d0891c76aabb8ecbecea6acfd853c1cc96eb397a3c0de4",
-      "bytes": 11475
+      "sha256": "b4061cfba6d3372f3fb9f71472d88fc707221a245c69d6c99b2a66e56d18a8bd",
+      "bytes": 11692
     },
     "contact.html": {
-      "sha256": "052f28e2dca74e8424bbd97fa833dfebb301889ebf2608e6a07f86bc8d0f0e99",
-      "bytes": 13612
+      "sha256": "b8a0fd64438bdf79a1901ae167ce89ca710f85e88349771cb7f372c020663167",
+      "bytes": 13829
     },
     "drywall-finishing-texturing.html": {
-      "sha256": "c9d4b6ffbda196b7665fb4e297861a49120f21d7ab5186363403d14e650feaa1",
-      "bytes": 15799
+      "sha256": "1e8043c0babf6d9709492bc85d1dc3828bab61322e4dd0fc549a58edaa34d345",
+      "bytes": 16016
     },
     "drywall-redmond.html": {
-      "sha256": "1cd3914fb5ab5492db58a8db1bdf305a1fbaeaaf5552de0b3f21ac1e43f71154",
-      "bytes": 12361
+      "sha256": "128aa3aa05f2ebc1671416a974bb3042a3b168bd49a1c7b2718a1b31efcbbf09",
+      "bytes": 12578
     },
     "sitemap.xml": {
       "sha256": "d1912512a783b0c41914b0dfcc004d327b75fc8ca87af8e48d4e12de599fb30f",
       "bytes": 1068
     },
     "drywall-replacement.html": {
-      "sha256": "1f2247e9ca8e999d52a3181f7041149deebcbc7430d0b5495d869669fd665455",
-      "bytes": 15222
+      "sha256": "4301b3f73d993846058beed637144484350cb471a728ab777f9ac84d8b265a85",
+      "bytes": 15439
     },
     "drywall-issaquah.html": {
-      "sha256": "3f059cfd2a147f86976514b0fd0d83cad8c5aa5b4095a07b3044d8ac19c3f2e5",
-      "bytes": 12426
+      "sha256": "fc056551304120d16e74e2a434a560cef4233a4bb14e34a8e01e86ce9fea5047",
+      "bytes": 12643
     },
     "robots.txt": {
       "sha256": "f6f3c856a7eb713db471042c7a60b7a6e7208c03f3437451f407c11cd72e18ae",
       "bytes": 74
     },
     "drywall-repair.html": {
-      "sha256": "116c20a31cc5793c4c4431149b48c8a292c7f25dabb72ec41b730fff27a791f9",
-      "bytes": 15236
+      "sha256": "b4e53434175bf206c828b363721ada069d85fcb867c26639d3131a85f55380d0",
+      "bytes": 15453
     },
     "drywall-newcastle.html": {
-      "sha256": "d3ce3873d1085eb91ecbed152ac8105f3599f74196b0653c2ebc609f0956d2bd",
-      "bytes": 12345
+      "sha256": "702a6791a0720c68431c87e6e7c7fda3d77eff685262c22219c5ca5c0032d29f",
+      "bytes": 12562
     },
     "faq.html": {
-      "sha256": "9708c73ee791d534b83920ca018ce044dfb1336a402ed5a499309af319079857",
-      "bytes": 13076
+      "sha256": "374fa984ccfd2962c264bb0e5307933220bc2c61ccaeb6b120f2a1f76a16b719",
+      "bytes": 13293
     },
     "drywall-installation.html": {
-      "sha256": "a9aa4790a6b6409b00bd2fb47a18b2a670bdc748d01d38c36bb8ad55acabc206",
-      "bytes": 15518
+      "sha256": "6972f6ef760fb0d6a764e3987757e7f0856af4fb022cabbc1a1f3719ce4aecf3",
+      "bytes": 15735
     },
     "css/styles.css": {
       "sha256": "1a6485e83e7173af722f4318c38a8e57ef9fc82ad007fc68e535108f0b3bf906",
@@ -234,6 +234,18 @@
     "js/main.js": {
       "sha256": "04c9fa939294415a0c374a004c257a380fb9a80a25eb771731e5c916610a6607",
       "bytes": 3228
+    },
+    "favicon.ico": {
+      "sha256": "dc903e21e87c4636ffc19768ce0c71f585c3e160737aaf21e89382995ac07f78",
+      "bytes": 15086
+    },
+    "favicon-32.png": {
+      "sha256": "96c7d9bba1cf26ca8c732e45818fec9dde034fd77e312f846595550de6331543",
+      "bytes": 761
+    },
+    "apple-touch-icon.png": {
+      "sha256": "bef1b7d921c65fa90fc263f34cebe54d6de101eaa12078d3cf6bf0b954187058",
+      "bytes": 3427
     }
   },
   "validation": {
@@ -317,7 +329,10 @@
         "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-400.webp",
         "images/optimized/sammamish-drywall/wall-preparation-sanding-materials-600.webp",
         "images/optimized/sammamish-drywall/replacement-drywall-panel-joints-800.webp",
-        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-800.webp"
+        "images/optimized/sammamish-drywall/drywall-finishing-trowels-compound-card-800.webp",
+        "favicon.ico",
+        "favicon-32.png",
+        "apple-touch-icon.png"
       ]
     }
   }
